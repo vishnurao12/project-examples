@@ -18,4 +18,4 @@ if [ ! -f "$mavenSettingsFile" ]; then
     exit 1
 fi
 
-mvn deploy -Dbuildnumber="$buildnumber" -s $mavenSettingsFile
+mvn deploy -Dbuildnumber="$buildnumber" -s $mavenSettingsFile 
