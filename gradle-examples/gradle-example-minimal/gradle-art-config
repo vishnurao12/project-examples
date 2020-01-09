@@ -5,5 +5,5 @@ resolver:
   repo: jcenter
   serverID: varsha_art
 deployer:
-  repo: varsha-gradle-local
+  repo: gradle-local
   serverID: varsha_art
