@@ -2,9 +2,9 @@ version: 1
 type: maven
 resolver:
   snapshotRepo: snapshot-maven-virtual
-  releaseRepo: snapshot-maven-virtual
+  releaseRepo: release-maven-virtual
   serverID: varsha_art
 deployer:
   snapshotRepo: snapshot-maven-local
-  releaseRepo: snapshot-maven-local
+  releaseRepo: release-maven-local
   serverID: varsha_art
