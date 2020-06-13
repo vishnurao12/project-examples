@@ -3,7 +3,7 @@ type: gradle
 usePlugin: true
 resolver:
   repo: jcenter
-  serverID: varsha_art
+  serverID: art_v
 deployer:
   repo: gradle-local
-  serverID: varsha_art
+  serverID: art_v
