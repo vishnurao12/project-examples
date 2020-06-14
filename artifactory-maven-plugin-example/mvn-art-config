@@ -3,8 +3,8 @@ type: maven
 resolver:
   snapshotRepo: snapshot-maven-virtual
   releaseRepo: release-maven-virtual
-  serverID: varsha_art
+  serverID: art_v
 deployer:
   snapshotRepo: snapshot-maven-local
   releaseRepo: release-maven-local
-  serverID: varsha_art
+  serverID: art_v
